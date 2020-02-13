@@ -56,4 +56,28 @@ Troco Simples | https://trocosimples.com.br/ | |
 
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
+AMCom | https://www.amcom.com.br/ | (47) 3328-9400 |
+Movidesk | https://www.movidesk.com/ |  |
 QuickSoft | https://www.quicksoft.com.br/ | (47) 3036-6526 |
+
+#### Criciúma
+
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Next Fit | https://nextfit.com.br/ |  |
+
+#### Florianopólis
+
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+4Asset | https://www.4asset.net.br/ | (48) 3234-1051 |
+
+#### Itajaí
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+QUAY Sistemas | http://www.quay.com.br/ | (47) 3248-0018 |
+
+#### Joinville
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+BMA Sistemas | https://bmasistemas.com.br/home/ | (47) 3028-9520 |
