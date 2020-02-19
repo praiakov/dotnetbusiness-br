@@ -9,6 +9,22 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 
 ## Sudeste
 
+### São Paulo
+
+#### São Paulo
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Cadmus Soluções | https://cadmus.com.br/ | |
+Datainfo Soluções | https://www.datainfo.inf.br/ | |
+Foursys | https://www.foursys.com.br/ | |
+Labirit Brasil | https://www.laborit.com.br/ | |
+Mirante Tecnologia | https://www.mirante.net.br/ | |
+Mutant | https://mutantbr.com/ | | 
+Taking | https://www.taking.com.br | | 
+TIVIT | https://tivit.com/ | |
+VERX | https://www.verx.com.br/ | |
+Zuri | https://www.zuri.wf/ | contato@zuri.wf |
+
 ### Minas Gerais
 
 #### Belo Horizonte
