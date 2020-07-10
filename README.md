@@ -77,6 +77,7 @@ Gateware | https://www.gateware.com.br/ | (41) 3180-0019 |
 GTI Digital | https://www.gtidigital.com/ | (41) 3090-5151 |
 Paraná Banco | https://www.paranabanco.com.br/ | |
 PG Mais | https://pgmais.com.br/ | |
+PneuFree | https://www.pneufree.com/ | |
 Regazzo | http://www.regazzo.com.br/ | (41) 3077-2509 |
 Spro IT | https://www.spro.com.br/ | (41) 3241-7700 |
 Troco Simples | https://trocosimples.com.br/ | |
