@@ -68,8 +68,10 @@ AnSata | http://ansata.com.br/ | (41) 3078-2940 |
 Automatech | https://www.automatech.com.br/ | (41) 3024-6675 |
 Dbm Contact Center | https://www.dbm.com.br/ | contato@dbm.com.br |
 BRG Educacional | https://brgeducacional.com.br/ |  |
-Cesbe S.A | http://www.cesbe.com.br/ | (41) 3330-4700 |
+Cesbe S.A | http://www.cesbe.com.br/ | (41) 3330-4700 | 
+CONSILUX TECNOLOGIA | https://www.consilux.com.br/pt/ |  |
 Econet Editora | http://www.econeteditora.com.br/ |  |
+Exago Brasil | http://exagobrasil.com.br/ |  |
 ExxonMobil | https://corporate.exxonmobil.com/ |  |
 Forlog | https://viasoft.com.br/forlog/ | |
 Fretefy | https://fretefy.com.br/ | contato@fretefy.com.br |
