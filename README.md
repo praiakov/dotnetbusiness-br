@@ -55,7 +55,7 @@ Geogin | https://geogin.com.br/ | |
 Geopost | https://www.geopost.com.br/ | |
 Reserve | http://reservesystems.com.br/ | |
 Radix | http://www.radixeng.com.br/ | |
-Sonda | https://www.sonda.com/ | |
+Nibo | https://www.nibo.com.br/ | |
 
 
 ## Sul
