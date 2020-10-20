@@ -16,8 +16,12 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 Ânima Educação | https://animaeducacao.com.br/ | contato@animaeducacao.com.br | 
+Bernoulli Educação | https://www.bernoulli.com.br/ |  |
+Bússola do Investidor | https://www.bussoladoinvestidor.com.br/ |  | 
 BHS | https://www.bhs.com.br/ |  | 
 Consulte GEO | https://consultegeo.com.br/ | (31) 2342-0786  | 
+Ioasys | https://ioasys.com.br/ |  | 
+JDC | https://www.jdcinformatica.com.br/ |  | 
 
 #### Juiz de Fora
 
