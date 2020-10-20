@@ -49,7 +49,9 @@ Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 Cadmus Soluções | https://cadmus.com.br/ | |
 Datainfo Soluções | https://www.datainfo.inf.br/ | |
+Epic Digital | http://www.epic.digital/ | |
 Foursys | https://www.foursys.com.br/ | |
+Fullbar Digital | http://www.fullbar.com.br/ | |
 Labirit Brasil | https://www.laborit.com.br/ | |
 Mirante Tecnologia | https://www.mirante.net.br/ | |
 Mutant | https://mutantbr.com/ | | 
