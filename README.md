@@ -74,10 +74,11 @@ Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 AnSata | http://ansata.com.br/ | (41) 3078-2940 |
 Automatech | https://www.automatech.com.br/ | (41) 3024-6675 |
-Dbm Contact Center | https://www.dbm.com.br/ | contato@dbm.com.br |
+Banco Bari | https://bancobari.com.br/ |  |
 BRG Educacional | https://brgeducacional.com.br/ |  |
 Cesbe S.A | http://www.cesbe.com.br/ | (41) 3330-4700 | 
 CONSILUX TECNOLOGIA | https://www.consilux.com.br/pt/ |  |
+Dbm Contact Center | https://www.dbm.com.br/ | contato@dbm.com.br |
 Econet Editora | http://www.econeteditora.com.br/ |  |
 Exago Brasil | http://exagobrasil.com.br/ |  |
 ExxonMobil | https://corporate.exxonmobil.com/ |  |
