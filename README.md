@@ -48,7 +48,14 @@ Reserve | http://reservesystems.com.br/ | |
 
 ### São Paulo
 
+#### Rio Claro
+
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Luxfacta | https://www.luxfacta.com/ | nlima@luxfacta.com |
+
 #### São Paulo
+
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 Cadmus Soluções | https://cadmus.com.br/ | |
