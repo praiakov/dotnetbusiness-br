@@ -16,18 +16,18 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 Ânima Educação | https://animaeducacao.com.br/ | contato@animaeducacao.com.br | 
-Bernoulli Educação | https://www.bernoulli.com.br/ |  |
-Bússola do Investidor | https://www.bussoladoinvestidor.com.br/ |  | 
-BHS | https://www.bhs.com.br/ |  | 
+Bernoulli Educação | https://www.bernoulli.com.br/ | |
+Bússola do Investidor | https://www.bussoladoinvestidor.com.br/ | | 
+BHS | https://www.bhs.com.br/ | | 
 Consulte GEO | https://consultegeo.com.br/ | (31) 2342-0786  | 
 Ioasys | https://ioasys.com.br/ |  | 
-JDC | https://www.jdcinformatica.com.br/ |  | 
+JDC | https://www.jdcinformatica.com.br/ | | 
 
 #### Juiz de Fora
 
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
-Relevo | http://www.relevolab.com/  |  | 
+Relevo | http://www.relevolab.com/  | | 
 
 #### Uberaba
 
@@ -81,15 +81,15 @@ Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 AnSata | http://ansata.com.br/ | (41) 3078-2940 |
 Automatech | https://www.automatech.com.br/ | (41) 3024-6675 |
-Banco Bari | https://bancobari.com.br/ |  |
-BRG Educacional | https://brgeducacional.com.br/ |  |
+Banco Bari | https://bancobari.com.br/ | |
+BRG Educacional | https://brgeducacional.com.br/ | |
 Cesbe S.A | http://www.cesbe.com.br/ | (41) 3330-4700 | 
 Code 21 | https://www.code21.com.br/ | | 
-CONSILUX TECNOLOGIA | https://www.consilux.com.br/pt/ |  |
+CONSILUX TECNOLOGIA | https://www.consilux.com.br/pt/ | |
 Dbm Contact Center | https://www.dbm.com.br/ | contato@dbm.com.br |
-Econet Editora | http://www.econeteditora.com.br/ |  |
+Econet Editora | http://www.econeteditora.com.br/ | |
 Exago Brasil | http://exagobrasil.com.br/ |  |
-ExxonMobil | https://corporate.exxonmobil.com/ |  |
+ExxonMobil | https://corporate.exxonmobil.com/ | |
 Forlog | https://viasoft.com.br/forlog/ | |
 Fretefy | https://fretefy.com.br/ | contato@fretefy.com.br |
 Gateware | https://www.gateware.com.br/ | (41) 3180-0019 |
@@ -103,6 +103,14 @@ Regazzo | http://www.regazzo.com.br/ | (41) 3077-2509 |
 Spro IT | https://www.spro.com.br/ | (41) 3241-7700 |
 Troco Simples | https://trocosimples.com.br/ | |
 
+### Rio Grande do Sul
+
+#### Porto Alegre
+
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+GX2 | https://www.gx2.com.br/ | |
+
 ### Santa Catarina
 
 #### Blumenau
@@ -110,14 +118,14 @@ Troco Simples | https://trocosimples.com.br/ | |
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 AMCom | https://www.amcom.com.br/ | (47) 3328-9400 |
-Movidesk | https://www.movidesk.com/ |  |
+Movidesk | https://www.movidesk.com/ | |
 QuickSoft | https://www.quicksoft.com.br/ | (47) 3036-6526 |
 
 #### Criciúma
 
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
-Next Fit | https://nextfit.com.br/ |  |
+Next Fit | https://nextfit.com.br/ | |
 
 #### Florianopólis
 
@@ -136,4 +144,6 @@ QUAY Sistemas | http://www.quay.com.br/ | (47) 3248-0018 |
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 BMA Sistemas | https://bmasistemas.com.br/home/ | (47) 3028-9520 |
-BRCondos | https://brcondos.com.br/ |  |
+BRCondos | https://brcondos.com.br/ | |
+
+
