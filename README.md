@@ -16,18 +16,26 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 Ânima Educação | https://animaeducacao.com.br/ | contato@animaeducacao.com.br | 
+Base2 Tecnologia | https://www.base2.com.br/ | |
 Bernoulli Educação | https://www.bernoulli.com.br/ | |
 Bússola do Investidor | https://www.bussoladoinvestidor.com.br/ | | 
 BHS | https://www.bhs.com.br/ | | 
 Consulte GEO | https://consultegeo.com.br/ | (31) 2342-0786  | 
 Ioasys | https://ioasys.com.br/ |  | 
-JDC | https://www.jdcinformatica.com.br/ | | 
+JDC | https://www.jdcinformatica.com.br/ | |
+Rethink Tecnologia | https://rethink.dev/ | | 
 
 #### Juiz de Fora
 
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
-Relevo | http://www.relevolab.com/  | | 
+Relevo | http://www.relevolab.com/ | | 
+
+#### Nova Lima
+
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Vetta | https://vetta.digital/ | | 
 
 #### Uberaba
 
@@ -100,6 +108,7 @@ Paraná Banco | https://www.paranabanco.com.br/ | |
 PG Mais | https://pgmais.com.br/ | |
 PneuFree | https://www.pneufree.com/ | |
 Regazzo | http://www.regazzo.com.br/ | (41) 3077-2509 |
+SB Crédito | https://sbcredito.com.br/ | |
 Spro IT | https://www.spro.com.br/ | (41) 3241-7700 |
 Troco Simples | https://trocosimples.com.br/ | |
 
