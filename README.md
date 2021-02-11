@@ -5,6 +5,13 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 
 ## Nordeste
 
+### Ceará
+
+#### Fortaleza
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Instituto Atlântico | http://www.atlantico.com.br/ | | 
+
 ## Centro-Oeste
 
 ## Sudeste
@@ -73,6 +80,7 @@ Foursys | https://www.foursys.com.br/ | |
 Fullbar Digital | http://www.fullbar.com.br/ | |
 Labirit Brasil | https://www.laborit.com.br/ | |
 Mirante Tecnologia | https://www.mirante.net.br/ | |
+MundiPagg | https://mundipagg.com/ | |
 Mutant | https://mutantbr.com/ | | 
 Taking | https://www.taking.com.br | | 
 TIVIT | https://tivit.com/ | |
@@ -111,6 +119,12 @@ Regazzo | http://www.regazzo.com.br/ | (41) 3077-2509 |
 SB Crédito | https://sbcredito.com.br/ | |
 Spro IT | https://www.spro.com.br/ | (41) 3241-7700 |
 Troco Simples | https://trocosimples.com.br/ | |
+
+#### Francisco Beltrão
+
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Null Bug | https://www.nullbug.dev/ | |
 
 ### Rio Grande do Sul
 
