@@ -115,6 +115,7 @@ MP HR Solutions | http://mphrsolutions.com.br/ | (41)99753-5022 |
 Paraná Banco | https://www.paranabanco.com.br/ | |
 PG Mais | https://pgmais.com.br/ | |
 PneuFree | https://www.pneufree.com/ | |
+Positivo Soluções Didáticas | http://www.positivosolucoes.com.br/ | |
 Regazzo | http://www.regazzo.com.br/ | (41) 3077-2509 |
 SB Crédito | https://sbcredito.com.br/ | |
 Spro IT | https://www.spro.com.br/ | (41) 3241-7700 |
