@@ -168,5 +168,6 @@ Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 BMA Sistemas | https://bmasistemas.com.br/home/ | (47) 3028-9520 |
 BRCondos | https://brcondos.com.br/ | |
+Softin Sistemas | https://softin.com.br/ | contato@softin.com.br |
 
 
