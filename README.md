@@ -27,7 +27,8 @@ Base2 Tecnologia | https://www.base2.com.br/ | |
 Bernoulli Educação | https://www.bernoulli.com.br/ | |
 Bússola do Investidor | https://www.bussoladoinvestidor.com.br/ | | 
 BHS | https://www.bhs.com.br/ | | 
-Consulte GEO | https://consultegeo.com.br/ | (31) 2342-0786  | 
+Consulte GEO | https://consultegeo.com.br/ | (31) 2342-0786  |
+HBA Tecnologia | https://www.hba.com.br/ | |
 Ioasys | https://ioasys.com.br/ |  | 
 JDC | https://www.jdcinformatica.com.br/ | |
 Rethink Tecnologia | https://rethink.dev/ | | 
