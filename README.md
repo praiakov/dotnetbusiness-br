@@ -110,6 +110,7 @@ ExxonMobil | https://corporate.exxonmobil.com/ | |
 Forlog | https://viasoft.com.br/forlog/ | |
 Fretefy | https://fretefy.com.br/ | contato@fretefy.com.br |
 Gateware | https://www.gateware.com.br/ | (41) 3180-0019 |
+Grupo Barigui | Grupo Barigui | |
 GTI Digital | https://www.gtidigital.com/ | (41) 3090-5151 |
 Info2biz | https://www.info2biz.com/ | (41) 99172-0603 |
 MP HR Solutions | http://mphrsolutions.com.br/ | (41)99753-5022 |
