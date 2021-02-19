@@ -22,7 +22,8 @@ Instituto Atlântico | http://www.atlantico.com.br/ | |
 
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
-Ânima Educação | https://animaeducacao.com.br/ | contato@animaeducacao.com.br | 
+Ânima Educação | https://animaeducacao.com.br/ | contato@animaeducacao.com.br |
+Aiko Digital | https://aiko.digital/ | |
 Base2 Tecnologia | https://www.base2.com.br/ | |
 Bernoulli Educação | https://www.bernoulli.com.br/ | |
 Bússola do Investidor | https://www.bussoladoinvestidor.com.br/ | | 
