@@ -82,6 +82,7 @@ Foursys | https://www.foursys.com.br/ | |
 Fullbar Digital | http://www.fullbar.com.br/ | |
 Labirit Brasil | https://www.laborit.com.br/ | |
 Mirante Tecnologia | https://www.mirante.net.br/ | |
+Modalmais | https://www.modalmais.com.br/ | |
 MundiPagg | https://mundipagg.com/ | |
 Mutant | https://mutantbr.com/ | | 
 Taking | https://www.taking.com.br | | 
@@ -146,6 +147,7 @@ Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 AMCom | https://www.amcom.com.br/ | (47) 3328-9400 |
 Movidesk | https://www.movidesk.com/ | |
+PagueVeloz | https://www.pagueveloz.com.br/ | |
 QuickSoft | https://www.quicksoft.com.br/ | (47) 3036-6526 |
 
 #### Criciúma
