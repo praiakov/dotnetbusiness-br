@@ -164,6 +164,11 @@ Empresa | Site | Contato | Aceita Remoto
 Progenese | http://progenese.com.br/ | (48) 3338-7961 |
 Supero | https://www.supero.com.br/ | |
 
+#### Guaramirim
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Lunelli | http://lunelli.com.br/pt-br/vagas | |
+
 #### Itajaí
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
