@@ -163,6 +163,7 @@ Empresa | Site | Contato | Aceita Remoto
 4Asset | https://www.4asset.net.br/ | (48) 3234-1051 |
 Progenese | http://progenese.com.br/ | (48) 3338-7961 |
 Supero | https://www.supero.com.br/ | |
+Way2 | https://www.way2.com.br/ | |
 
 #### Guaramirim
 Empresa | Site | Contato | Aceita Remoto
