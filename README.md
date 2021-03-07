@@ -106,6 +106,7 @@ Cesbe S.A | http://www.cesbe.com.br/ | (41) 3330-4700 |
 Code 21 | https://www.code21.com.br/ | | 
 CONSILUX TECNOLOGIA | https://www.consilux.com.br/pt/ | |
 Dbm Contact Center | https://www.dbm.com.br/ | contato@dbm.com.br |
+Digibyte Sistemas | https://www.digibyte.com.br/ | |
 Econet Editora | http://www.econeteditora.com.br/ | |
 Exago Brasil | http://exagobrasil.com.br/ |  |
 ExxonMobil | https://corporate.exxonmobil.com/ | |
@@ -120,6 +121,7 @@ Paraná Banco | https://www.paranabanco.com.br/ | |
 PG Mais | https://pgmais.com.br/ | |
 PneuFree | https://www.pneufree.com/ | |
 Positivo Soluções Didáticas | http://www.positivosolucoes.com.br/ | |
+Proxys Group | https://proxysgroup.com/ | |
 Regazzo | http://www.regazzo.com.br/ | (41) 3077-2509 |
 SB Crédito | https://sbcredito.com.br/ | |
 Spro IT | https://www.spro.com.br/ | (41) 3241-7700 |
