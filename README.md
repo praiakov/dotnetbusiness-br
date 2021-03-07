@@ -161,9 +161,13 @@ Next Fit | https://nextfit.com.br/ | |
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 4Asset | https://www.4asset.net.br/ | (48) 3234-1051 |
+HSystem | https://www.hsystem.com.br/ | |
 Progenese | http://progenese.com.br/ | (48) 3338-7961 |
+Seventh | https://www.seventh.com.br/ | |
+Softplan | https://www.softplan.com.br/ | |
 Supero | https://www.supero.com.br/ | |
 Way2 | https://www.way2.com.br/ | |
+Zap Único | https://www.zapunico.com.br/ | |
 
 #### Guaramirim
 Empresa | Site | Contato | Aceita Remoto
