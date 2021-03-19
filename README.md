@@ -3,6 +3,13 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 
 ## Norte
 
+### Pará
+
+#### Belém
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Vibe Tecnologia | https://www.vibetecnologia.com/ | |
+
 ## Nordeste
 
 ### Ceará
