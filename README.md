@@ -40,6 +40,7 @@ HBA Tecnologia | https://www.hba.com.br/ | |
 Ioasys | https://ioasys.com.br/ |  | 
 JDC | https://www.jdcinformatica.com.br/ | |
 Meep | http://www.meep-app.com/ | | 
+Raro Labs | https://www.rarolabs.com.br/ | | 
 Rethink Tecnologia | https://rethink.dev/ | | 
 
 #### Juiz de Fora
