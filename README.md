@@ -36,6 +36,7 @@ Bernoulli Educação | https://www.bernoulli.com.br/ | |
 Bússola do Investidor | https://www.bussoladoinvestidor.com.br/ | | 
 BHS | https://www.bhs.com.br/ | | 
 Consulte GEO | https://consultegeo.com.br/ | (31) 2342-0786  |
+DTI Digital | https://www.dtidigital.com.br/ | |
 HBA Tecnologia | https://www.hba.com.br/ | |
 Ioasys | https://ioasys.com.br/ |  | 
 JDC | https://www.jdcinformatica.com.br/ | |
