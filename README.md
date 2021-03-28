@@ -21,6 +21,13 @@ Instituto Atlântico | http://www.atlantico.com.br/ | |
 
 ## Centro-Oeste
 
+### Goiás
+
+#### Goiânia
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Grupo SIAGRI | https://www.siagri.com.br/ | | 
+
 ## Sudeste
 
 ### Minas Gerais
