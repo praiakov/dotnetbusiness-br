@@ -26,6 +26,7 @@ Instituto Atlântico | http://www.atlantico.com.br/ | |
 #### Goiânia
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
+Autobem Brasil | http://www.autobembrasil.com.br/ | |
 Grupo SIAGRI | https://www.siagri.com.br/ | | 
 
 ## Sudeste
