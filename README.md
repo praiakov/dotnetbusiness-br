@@ -57,6 +57,7 @@ Rethink Tecnologia | https://rethink.dev/ | |
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 Relevo | http://www.relevolab.com/ | | 
+Guiando | https://www.guiando.com.br/ | |
 
 #### Nova Lima
 
