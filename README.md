@@ -174,6 +174,7 @@ Null Bug | https://www.nullbug.dev/ | |
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 GX2 | https://www.gx2.com.br/ | |
+Maxiprod Informática Industrial | https://maxiprod.com.br/erp/ | |
 
 ### Santa Catarina
 
