@@ -215,6 +215,7 @@ Lunelli | http://lunelli.com.br/pt-br/vagas | |
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 QUAY Sistemas | http://www.quay.com.br/ | (47) 3248-0018 |
+Dautin Blockchain Co. | https://www.dautin.com/ | |
 
 #### Joinville
 Empresa | Site | Contato | Aceita Remoto
