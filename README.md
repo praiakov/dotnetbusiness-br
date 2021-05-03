@@ -110,6 +110,7 @@ Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 Cadmus Soluções | https://cadmus.com.br/ | |
 Datainfo Soluções | https://www.datainfo.inf.br/ | |
+Docway | https://www.docway.com.br/ | |
 Epic Digital | http://www.epic.digital/ | |
 Foursys | https://www.foursys.com.br/ | |
 Fullbar Digital | http://www.fullbar.com.br/ | |
