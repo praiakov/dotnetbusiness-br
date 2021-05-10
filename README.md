@@ -179,11 +179,17 @@ Maxiprod Informática Industrial | https://maxiprod.com.br/erp/ | |
 
 ### Santa Catarina
 
+#### Brusque
+
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Havan Labs | http://havanlabs.gupy.io/ | |
+
 #### Blumenau
 
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
-AMCom | https://www.amcom.com.br/ | (47) 3328-9400 |
+AMCom | https://www.amcom.com.br/ | (47) 3328-9400 |AMCom | https://www.amcom.com.br/ | (47) 3328-9400 |
 ENVOLTI Sistemas de Informação | http://www.envolti.com.br | |
 Movidesk | https://www.movidesk.com/ | |
 PagueVeloz | https://www.pagueveloz.com.br/ | |
