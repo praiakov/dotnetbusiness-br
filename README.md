@@ -85,6 +85,13 @@ Reserve | http://reservesystems.com.br/ | |
 
 ### São Paulo
 
+#### Barueri
+
+Empresa | Site | Contato | Aceita Remoto
+ --- | --- | --- | --- 
+Boa Vista | https://www.boavistaservicos.com.br/ | |
+
+
 #### Ribeirão Preto
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
@@ -121,6 +128,7 @@ Mirante Tecnologia | https://www.mirante.net.br/ | |
 Modalmais | https://www.modalmais.com.br/ | |
 MundiPagg | https://mundipagg.com/ | |
 Mutant | https://mutantbr.com/ | | 
+PagBem | https://pagbem.com.br/ | |
 Taking | https://www.taking.com.br | | 
 TIVIT | https://tivit.com/ | |
 Unidas | https://www.unidas.com.br/ | |
