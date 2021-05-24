@@ -128,6 +128,7 @@ Mirante Tecnologia | https://www.mirante.net.br/ | |
 Modalmais | https://www.modalmais.com.br/ | |
 MundiPagg | https://mundipagg.com/ | |
 Mutant | https://mutantbr.com/ | | 
+OpenCircle | https://opencircle.com.br/ | |
 PagBem | https://pagbem.com.br/ | |
 Taking | https://www.taking.com.br | | 
 TIVIT | https://tivit.com/ | |
