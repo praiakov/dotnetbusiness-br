@@ -244,4 +244,7 @@ BMA Sistemas | https://bmasistemas.com.br/home/ | (47) 3028-9520 |
 BRCondos | https://brcondos.com.br/ | |
 Softin Sistemas | https://softin.com.br/ | contato@softin.com.br |
 
-
+#### Lages
+Empresa | Site | Contato | Aceita remoto
+--- | --- | --- | ---
+NDD - Tech Company Location | https://www.ndd.tech/ | |
