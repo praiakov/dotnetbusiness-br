@@ -124,6 +124,7 @@ Epic Digital | http://www.epic.digital/ | |
 Foursys | https://www.foursys.com.br/ | |
 Fullbar Digital | http://www.fullbar.com.br/ | |
 Labirit Brasil | https://www.laborit.com.br/ | |
+Leo Madeiras | https://www.leomadeiras.com.br/ | |
 Mirante Tecnologia | https://www.mirante.net.br/ | |
 Modalmais | https://www.modalmais.com.br/ | |
 MundiPagg | https://mundipagg.com/ | |
