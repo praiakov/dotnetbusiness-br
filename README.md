@@ -51,6 +51,7 @@ JDC | https://www.jdcinformatica.com.br/ | |
 Meep | http://www.meep-app.com/ | | 
 Raro Labs | https://www.rarolabs.com.br/ | | 
 Rethink Tecnologia | https://rethink.dev/ | | 
+Squadra Digital | https://www.squadra.com.br/ | | 
 
 #### Juiz de Fora
 
