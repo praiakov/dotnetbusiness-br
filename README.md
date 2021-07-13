@@ -48,7 +48,9 @@ DTI Digital | https://www.dtidigital.com.br/ | |
 HBA Tecnologia | https://www.hba.com.br/ | |
 Ioasys | https://ioasys.com.br/ |  | 
 JDC | https://www.jdcinformatica.com.br/ | |
+Lexos | https://www.lexos.com.br/| |
 Meep | http://www.meep-app.com/ | | 
+Meu Acerto | https://www.meuacerto.com.br/ | |
 Raro Labs | https://www.rarolabs.com.br/ | | 
 Rethink Tecnologia | https://rethink.dev/ | | 
 Squadra Digital | https://www.squadra.com.br/ | | 
