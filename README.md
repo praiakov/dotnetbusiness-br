@@ -54,6 +54,7 @@ Meu Acerto | https://www.meuacerto.com.br/ | |
 Raro Labs | https://www.rarolabs.com.br/ | | 
 Rethink Tecnologia | https://rethink.dev/ | | 
 Squadra Digital | https://www.squadra.com.br/ | | 
+WGC Sistemas | https://www.wgcsistemas.com.br/ | 
 
 #### Juiz de Fora
 
