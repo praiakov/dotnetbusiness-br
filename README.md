@@ -54,6 +54,7 @@ Meep | http://www.meep-app.com/ | |
 Meu Acerto | https://www.meuacerto.com.br/ | |
 Raro Labs | https://www.rarolabs.com.br/ | | 
 Rethink Tecnologia | https://rethink.dev/ | | 
+RHITMO - Soluções Tecnológicas | https://rhitmo.com.br/ | |
 Squadra Digital | https://www.squadra.com.br/ | | 
 WGC Sistemas | https://www.wgcsistemas.com.br/ | 
 
