@@ -97,6 +97,11 @@ Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 Boa Vista | https://www.boavistaservicos.com.br/ | |
 
+#### Campinas
+
+Empresa | Site | Contato | Aceita Remoto
+--- | --- | --- | ---
+T10 Bank | https://t10bank.com.br/ | |
 
 #### Ribeirão Preto
 Empresa | Site | Contato | Aceita Remoto
