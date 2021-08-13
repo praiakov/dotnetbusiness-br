@@ -28,6 +28,7 @@ Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
 Autobem Brasil | http://www.autobembrasil.com.br/ | |
 Grupo SIAGRI | https://www.siagri.com.br/ | | 
+MáximaTech | https://maximatech.com.br/ | |
 
 ## Sudeste
 
