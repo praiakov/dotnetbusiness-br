@@ -254,6 +254,7 @@ Dautin Blockchain Co. | https://www.dautin.com/ | |
 #### Joinville
 Empresa | Site | Contato | Aceita Remoto
  --- | --- | --- | --- 
+Asaas | https://www.asaas.com/ | |
 BMA Sistemas | https://bmasistemas.com.br/home/ | (47) 3028-9520 |
 BRCondos | https://brcondos.com.br/ | |
 Softin Sistemas | https://softin.com.br/ | contato@softin.com.br |
